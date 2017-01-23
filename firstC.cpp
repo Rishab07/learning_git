@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-	cout<<"First git repository";
+	cout<<"now we are changing the outout to make second commit";
 }
