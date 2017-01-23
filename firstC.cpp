@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-	cout<<"now we are changing the outout to make second commit";
+	int n;
 }
